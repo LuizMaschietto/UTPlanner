@@ -10,7 +10,6 @@ PASS=os.environ.get('G_PASS')
 df=pd.read_csv('Calem.csv')
 size=df.shape[0]
 
-for i in range(size):
 
 def send_mail():
 
