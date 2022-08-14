@@ -1,5 +1,4 @@
 import os
-from pickle import TRUE
 import pandas as pd
 import smtplib
 import time
@@ -19,7 +18,7 @@ if(getData.month<10):
   mes=('0'+str(getData.month))
 else:
   mes=(str(getData.month))
-diaHoje=(str(getData.day+1)+'/'+mes+'/'+str(getData.year))
+diaHoje=(str(getData.day)+'/'+mes+'/'+str(getData.year))
 #Puta que pariu
 
 #loop para achar o dia certo e para criar a mensagem a ser enviada para o email
@@ -51,8 +50,7 @@ def send_mail():
   server.sendmail(USERNAME,USERNAME, msgCompleta.encode('utf-8'))
 send_mail()
 
-# schedule.every().day.at('01:00').do(send_mail)
-schedule.every(30).seconds.do(send_mail)
-while TRUE:
+schedule.every().day.at('01:00').do(send_mail)
+while True:
   schedule.run_pending()
   time.sleep(1)
