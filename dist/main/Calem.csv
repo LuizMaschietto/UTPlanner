@@ -1,0 +1,218 @@
+Data,Dia da Semana,Materia,Sala,Plano de Aula
+11/08/2022,Quinta,Eletronica A,L106,"Apresentação da disciplina: plano de ensino, datas das avaliações, bibliografia, metodologia. Revisão de conceitos."
+12/08/2022,Sexta,Banco de Dados,V104,"Introdução à disciplina de Banco de Dados. História e evolução dos sistemas de armazenamento de dados. Contextualização da disciplina no curso de Engenharia de Computação. Atividade de leitura, pesquisa e questionário. Sistemas atuais de gerenciamento de Banco de Dados: marcas, usos, preços, hardware, etc. Definições e aspectos básicos sobre Banco de Dados."
+15/08/2022,Segunda,Variaveis Complexas,M005,Introdução ao* curso.Números; Complexos. Operações; básicas.
+15/08/2022,Segunda,Gestão De projeto,V106,"Apresentação do plano de aulas. Contexto da disciplina. Introdução à gestão de projetos de software (o que é projeto, importância, gestão de projeto, processos da gestão de projetos). Apresentação do PMBOK e suas áreas."
+15/08/2022,Segunda,Fundamentos Da Teoria,M011,Apresentação da disciplina: motivação para o estudo de Fundamentos de Computação. Apresentação do Plano de Aulas da Disciplina.
+16/08/2022,Terça,Eletronica A,I010,"Teoria de semicondutores: estrutura atômica, materiais semicondutores, junção PN. Diodo bipolar: estrutura, características e circuito equivalente."
+17/08/2022,Quarta,Variaveis Complexas,M005,Divisão. Módulo. Inversa.
+17/08/2022,Quarta,Fundamentos Da Teoria,M011,"Linguagens Formais: Conceitos Básicos. Caractere, alfabeto, palavra. Concatenação, concatenação sucessiva. Gramática, Gramática Irrestrita ou Gramática de Chomsky ."
+17/08/2022,Quarta,Banco de Dados,V104,"Conceitos, Modelos e Projeto de Banco de dados. Sistemas gerenciadores de Banco de Dados. Organização de memória. Redundância controlada e não controlada de dados. Abordagem de modelagem. Esquemas de dados."
+18/08/2022,Quinta,Eletronica A,L106,Diodo: reta de carga* Atividade prática: exercícios.
+19/08/2022,Sexta,Banco de Dados,V104,Abordagem Entidade-Relacionamento. Revisão de Engenharia de Requisitos. Projeto conceitual de banco de dados. Introdução aos Diagramas Entidade-Relacionamento.
+22/08/2022,Segunda,Variaveis Complexas,M005,Representação polar.
+22/08/2022,Segunda,Gestão De projeto,V106,Definição do modelo de desenvolvimento. Escopo de projeto e produto. Identificação e gerenciamento das partes interessadas.
+22/08/2022,Segunda,Fundamentos Da Teoria,M011,"Gramática, Gramática de Chomsky ou Gramática Irrestrita (continuação). Linguagem Regular. Gramática Regular. Gramática Linear à Direita (GLD), Gramática Linear à Esquerda (GLE), Gramática Linear Unitária à Direita (GLUD) e Gramática Linear Unitária à Esquerda (GLUE)."
+23/08/2022,Terça,Eletronica A,I010,Atividade prática: exercícios.
+24/08/2022,Quarta,Variaveis Complexas,M005,Funções de uma variável* complexa.;
+24/08/2022,Quarta,Fundamentos Da Teoria,M011,Linguagem Regular: Gramática Regular. Exercícios de fixação de conteúdo.
+24/08/2022,Quarta,Banco de Dados,V104,"Diagramas Entidade-Relacionamento: especializações, herança, herança múltipla, associações, entidades associativas."
+25/08/2022,Quinta,Eletronica A,L106,Retificadores.
+26/08/2022,Sexta,Banco de Dados,V104,Aula prática de modelagem usando a Abordagem Entidade-Relacionamento.
+29/08/2022,Segunda,Variaveis Complexas,M005,Limites. Continuidade.* Derivação.
+29/08/2022,Segunda,Sistemas Lineares,V106,Resolução de exercícios.
+29/08/2022,Segunda,Gestão De projeto,V106,Aplicação de técnica de identificação de problema e definição do problema a ser resolvido via solução de software. Termo de Abertura de Projeto (proposta de projeto para cada equipe). Definição do escopo de projeto e de produto (lista de requisitos) e critérios de aceitação.
+29/08/2022,Segunda,Fundamentos Da Teoria,M011,Linguagem Regular. Expressões Regulares
+30/08/2022,Terça,Eletronica A,I010,Participação dos alunos na Semana Acadêmica do curso de Engenharia Elétrica.
+31/08/2022,Quarta,Variaveis Complexas,M005,Função Analítica.* Equações de Cauchy-Riemann.
+31/08/2022,Quarta,Fundamentos Da Teoria,M011,Sistemas de Estados Finitos. Máquina de Estados. Autômatos Finitos Determinísticos.
+31/08/2022,Quarta,Banco de Dados,V104,Projeto Lógico de banco de dados relacionais.
+01/09/2022,Quinta,Sistemas Lineares,V106,Aula Prática 01: Matlab aplicado a sistemas lineares.
+01/09/2022,Quinta,Eletronica A,L106,Participação dos alunos na Semana Acadêmica do curso de Engenharia Elétrica.
+02/09/2022,Sexta,Banco de Dados,V104,Normalização. Formas normais. Dependências funcionais parciais e transitivas. Bancos de dados normalizados e não-normalizados. Vantagens e desvantagens.
+05/09/2022,Segunda,Variaveis Complexas,M005,Funções exponencial.* Logarítmica.
+05/09/2022,Segunda,Sistemas Lineares,V106,"Introdução a convolução, Soma de Convolução, integral de convolução."
+05/09/2022,Segunda,Gestão De projeto,V106,Gestão de recursos humanos (definição de papéis e responsabilidades). Definição de equipes para a condução de projeto durante a disciplina.
+05/09/2022,Segunda,Fundamentos Da Teoria,M011,"Exercícios de Linguagens Regulares: Gramática Regular, Expressões Regulares e Autômatos Finitos Determinísticos."
+06/09/2022,Terça,Eletronica A,I010,Atividade prática: Laboratório.
+07/09/2022,Quarta,Variaveis Complexas,M005,Independência do Brasil
+07/09/2022,Quarta,Fundamentos Da Teoria,M011,Independência do Brasil
+07/09/2022,Quarta,Banco de Dados,V104,Independência do Brasil
+08/09/2022,Quinta,Sistemas Lineares,V106,Propriedades da integral e soma de convolução. Exemplos.
+08/09/2022,Quinta,Eletronica A,L106,"Retificadores de onda completa. LED, diodo Zener e reguladores de tensão."
+09/09/2022,Sexta,Banco de Dados,V104,Exercícios de implementação prática de modelagem lógica de banco de dados e processo de normalização.
+12/09/2022,Segunda,Variaveis Complexas,M005,Funções Trigonométricas.
+12/09/2022,Segunda,Sistemas Lineares,V106,Resolução de exercícios.
+12/09/2022,Segunda,Gestão De projeto,V106,"Gerenciamento de atividades e tempo. Elaboração de planilha contendo atividades, o tempo necessário para o seu desenvolvimento e responsabilidades. Apresentação de ferramenta de gestão de cronograma."
+12/09/2022,Segunda,Fundamentos Da Teoria,M011,Autômatos Finitos Não Determinísticos.
+13/09/2022,Terça,Eletronica A,I010,Atividade prática: Laboratório.
+14/09/2022,Quarta,Variaveis Complexas,M005,Revisão do conteúdo.
+14/09/2022,Quarta,Fundamentos Da Teoria,M011,Autômatos Finitos Não Determinísticos com Movimento Vazio.
+14/09/2022,Quarta,Banco de Dados,V104,Prática: engenharia reversa de modelos conceituais de banco de dados. Construção das definições a partir da arquitetura do sistema.
+15/09/2022,Quinta,Sistemas Lineares,V106,Previsão da 1ª AVALIAÇÃO: primeira avaliação de SL24CP.
+15/09/2022,Quinta,Eletronica A,L106,"Circuitos com diodos. Ceifador, limitador, grampeador e multiplicador de tensão."
+16/09/2022,Sexta,Banco de Dados,V104,Prova 1
+19/09/2022,Segunda,Variaveis Complexas,M005,Avaliação 1
+19/09/2022,Segunda,Variaveis Complexas,M005,Avaliação 1.
+19/09/2022,Segunda,Sistemas Lineares,V106,Introdução a análise de Fourier.
+19/09/2022,Segunda,Gestão De projeto,V106,Atribuição de estimativa de esforço necessário para a realização de cada atividade do projeto. Introdução à ferramenta de gestão de projetos. Criação de projeto e inclusão de artefatos necessários para o seu gerenciamento. *
+19/09/2022,Segunda,Fundamentos Da Teoria,M011,Revisão para a prova P1.
+20/09/2022,Terça,Eletronica A,I010,Atividade prática: Laboratório.
+21/09/2022,Quarta,Variaveis Complexas,M005,Arcos e Contornos. Integral de Linha.*
+21/09/2022,Quarta,Fundamentos Da Teoria,M011,Prova 1.
+21/09/2022,Quarta,Banco de Dados,V104,Revisão da prova 1 e introdução à estruturação formal de banco de dados relacionais: Revisão de conceitos da teoria dos conjuntos e noções de Álgebra Relacional.
+22/09/2022,Quinta,Sistemas Lineares,V106,Série de Fourier de tempo contínuo.
+22/09/2022,Quinta,Eletronica A,L106,Circuitos com diodos.
+23/09/2022,Sexta,Banco de Dados,V104,Operadores lógico-relacionais e composição de projeções e seleções em esquemas relacionais de banco de dados.
+26/09/2022,Segunda,Variaveis Complexas,M005,Cálculo de algumas integrais de Linha.
+26/09/2022,Segunda,Sistemas Lineares,V106,Série de Fourier de tempo contínuo.
+26/09/2022,Segunda,Gestão De projeto,V106,Gerenciamento de riscos. Elaboração de plano de riscos. Atividades de planejamento do projeto. Gerenciamento de recursos e aquisições. Elaboração de plano de recursos e aquisições. Atividades de planejamento do projeto.
+26/09/2022,Segunda,Fundamentos Da Teoria,M011,Linguagens Livres de Contexto. Gramática Livre de Contexto (GLC). Árvore de Derivação. Ambiguidade em GLC's.
+27/09/2022,Terça,Eletronica A,I010,Atividade prática: Laboratório.
+28/09/2022,Quarta,Variaveis Complexas,M005,Teorema de Cauchy. Fórmula integral de Cauchy.
+28/09/2022,Quarta,Fundamentos Da Teoria,M011,"Exercícios sobre construção de GLC's, árvores de derivação e ambiguidade."
+28/09/2022,Quarta,Banco de Dados,V104,Prática - Álgebra Relacional
+29/09/2022,Quinta,Sistemas Lineares,V106,Resolução de exercícios.
+29/09/2022,Quinta,Eletronica A,L106,Prova 1
+29/09/2022,Quinta,Eletronica A,L106,Avaliação: prova.
+30/09/2022,Sexta,Banco de Dados,V104,Álgebra de conjuntos e sua relação com a formalização de linguagens para a manipulação de banco de dados.
+03/10/2022,Segunda,Variaveis Complexas,M005,Derivação de funções analíticas.*
+03/10/2022,Segunda,Sistemas Lineares,V106,Série de Fourier de tempo discreto.
+03/10/2022,Segunda,Gestão De projeto,V106,Gerenciamento de comunicações. Elaboração de plano de comunicações. Atividades de planejamento do projeto.
+03/10/2022,Segunda,Fundamentos Da Teoria,M011,Simplificação de Gramática Livre de Contexto: 1) Produções vazias* 2) produções da forma A -> B e 3) símbolos inúteis.
+04/10/2022,Terça,Eletronica A,I010,Resolução da prova. Atividade prática: exercícios.
+05/10/2022,Quarta,Variaveis Complexas,M005,Sequências e séries.
+05/10/2022,Quarta,Fundamentos Da Teoria,M011,Exercícios de simplificação de GLC.
+05/10/2022,Quarta,Banco de Dados,V104,"Operações de atualização, inserção e exclusão em banco de dados relacionais."
+06/10/2022,Quinta,Sistemas Lineares,V106,Série de Fourier de tempo discreto.
+06/10/2022,Quinta,Eletronica A,L106,"Transistor bipolar de junção: estrutura, características e configurações."
+07/10/2022,Sexta,Banco de Dados,V104,Junções algébricas. Prática de implementação de consultas relacionais em linguagem algébrica.
+10/10/2022,Segunda,Variaveis Complexas,M005,Planejamento/Capacitação
+10/10/2022,Segunda,Sistemas Lineares,V106,Planejamento/Capacitação
+10/10/2022,Segunda,Gestão De projeto,V106,Planejamento/Capacitação
+10/10/2022,Segunda,Fundamentos Da Teoria,M011,Planejamento/Capacitação
+11/10/2022,Terça,Eletronica A,I010,Planejamento/Capacitação
+12/10/2022,Quarta,Variaveis Complexas,M005,Padroeira do Brasil
+12/10/2022,Quarta,Fundamentos Da Teoria,M011,Padroeira do Brasil
+12/10/2022,Quarta,Banco de Dados,V104,Padroeira do Brasil
+13/10/2022,Quinta,Sistemas Lineares,V106,Planejamento/Capacitação
+13/10/2022,Quinta,Eletronica A,L106,Planejamento/Capacitação
+14/10/2022,Sexta,Banco de Dados,V104,Planejamento/Capacitação
+17/10/2022,Segunda,Variaveis Complexas,M005,Estudo de convergência de séries.
+17/10/2022,Segunda,Sistemas Lineares,V106,Resolução de exercícios.
+17/10/2022,Segunda,Gestão De projeto,V106,Exploração de recursos gráficos de gerenciamento de projetos. Atividades de planejamento do projeto.
+17/10/2022,Segunda,Fundamentos Da Teoria,M011,Formas Normais. Forma Normal de Chomsky.
+18/10/2022,Terça,Eletronica A,I010,Transistor bipolar de junção: configurações.
+19/10/2022,Quarta,Variaveis Complexas,M005,Testes da raíz e da razão.
+19/10/2022,Quarta,Fundamentos Da Teoria,M011,Formas Normais. Forma Normal de Greibach.
+19/10/2022,Quarta,Banco de Dados,V104,"Prática: engenharia reversa de consultas em Álgebra Relacional. Construção das definições a partir de consultas em linguagem algébrica. Análise, implementação e transposição para linguagem declarativa."
+20/10/2022,Quinta,Sistemas Lineares,V106,Aula prática 02: Série de Fourier de tempo contínuo.
+20/10/2022,Quinta,Eletronica A,L106,Atividade de recuperação do aproveitamento acadêmico segundo §4.º do Art. 35 do Regulamento da Organização Didático-Pedagógica dos Cursos de Graduação da UTFPR.
+21/10/2022,Sexta,Banco de Dados,V104,"Oficina de integração com Banco de Dados - Parte 1: Instalação, configuração e teste de um sistema de banco de dados integrado a um Sistema de Controle Supervisório e de Aquisição de Dados (SCADA). Análise das estruturas do banco. Análise da estrutura operacional do supervisório e sua integração com o banco de dados."
+24/10/2022,Segunda,Variaveis Complexas,M005,Convergências simples e pontual.
+24/10/2022,Segunda,Sistemas Lineares,V106,Transformada de Fourier de tempo contínuo.
+24/10/2022,Segunda,Gestão De projeto,V106,Gerenciamento de configurações.* Atividades de planejamento do projeto pela equipe.
+24/10/2022,Segunda,Fundamentos Da Teoria,M011,Autômato com Pilha.
+25/10/2022,Terça,Eletronica A,I010,Transistor bipolar de junção. Polarização CC. Exercícios.
+26/10/2022,Quarta,Variaveis Complexas,M005,Convergência uniforme.
+26/10/2022,Quarta,Fundamentos Da Teoria,M011,Aula Prática em Laboratório: Simulador de Autômatos com Pilha.
+26/10/2022,Quarta,Banco de Dados,V104,Prova 2.
+27/10/2022,Quinta,Sistemas Lineares,V106,Resolução de exercícios de Fourier.
+27/10/2022,Quinta,Eletronica A,L106,Transistor bipolar de junção: polarização CC. Operação como chave e como fonte de corrente. Exercícios.
+28/10/2022,Sexta,Banco de Dados,V104,Introdução à linguagem SQL.
+31/10/2022,Segunda,Variaveis Complexas,M005,Revisão do conteúdo.
+31/10/2022,Segunda,Sistemas Lineares,V106,Previsão da 2ª AVALIAÇÃO: Segunda avaliação de SL24CP - Análise de Fourier.
+31/10/2022,Segunda,Gestão De projeto,V106,Outros aspectos a serem gerenciados na gestão de projetos. Atividades de desenvolvimento do projeto pela equipe.
+31/10/2022,Segunda,Fundamentos Da Teoria,M011,Máquina de Turing.
+01/11/2022,Terça,Eletronica A,I010,Atividade prática: Laboratório.
+02/11/2022,Quarta,Variaveis Complexas,M005,Finados
+02/11/2022,Quarta,Fundamentos Da Teoria,M011,Finados
+02/11/2022,Quarta,Banco de Dados,V104,Finados
+03/11/2022,Quinta,Sistemas Lineares,V106,Introdução a Transformada de Laplace. Aplicações da transformada de Laplace.
+03/11/2022,Quinta,Eletronica A,L106,Transistor bipolar de junção: regulador de tensão.
+04/11/2022,Sexta,Banco de Dados,V104,Domínios de atributos em SQL. Principais domínios e diferenças de estruturas de dados e tecnologias. Domínios armazenados. Lista de exercícios.
+07/11/2022,Segunda,Variaveis Complexas,M005,Avaliação 2
+07/11/2022,Segunda,Variaveis Complexas,M005,Avaliação 2.
+07/11/2022,Segunda,Sistemas Lineares,V106,A Transformada de Laplace. Condições de existência. Cálculo da transformada de Laplace.
+07/11/2022,Segunda,Gestão De projeto,V106,Atividades de desenvolvimento do projeto pela equipe.
+07/11/2022,Segunda,Fundamentos Da Teoria,M011,Aula prática em laboratório - Simulador de Máquina de Turing.
+08/11/2022,Terça,Eletronica A,I010,Atividade prática: Laboratório.
+09/11/2022,Quarta,Variaveis Complexas,M005,Séries de Potências.
+09/11/2022,Quarta,Fundamentos Da Teoria,M011,O número de pilhas de autômatos e o seu poder computacional. Hipótese de Church. Variações de modelos de máquina de turing. Linguagens Enumeráveis Recursivamente. Gramática Irrestrita.
+09/11/2022,Quarta,Banco de Dados,V104,Classe de comandos DDL. Criação de estruturas para o armazenamento de dados. Definição de identificadores e relacionamentos em SQL. Principais regras de integridade implementadas via SGBD. Tratamento de exceções via banco de dados.
+10/11/2022,Quinta,Sistemas Lineares,V106,"Transformada inversa, frações parciais. Aplicações da Transformada de Laplace"
+10/11/2022,Quinta,Eletronica A,L106,"Transistor de efeito de campo: estrutura e características. JFET, MOSFET tipo depleção."
+11/11/2022,Sexta,Banco de Dados,V104,"Introdução à gerência de transações e às propriedades ACID no contexto da classe de operações DML. Commit, Rollback e modelo de transação em SQL. Introdução à consultas de dados."
+14/11/2022,Segunda,Variaveis Complexas,M005,Recesso
+14/11/2022,Segunda,Sistemas Lineares,V106,Recesso
+14/11/2022,Segunda,Gestão De projeto,V106,Recesso
+14/11/2022,Segunda,Fundamentos Da Teoria,M011,Recesso
+15/11/2022,Terça,Eletronica A,I010,Proclamação da República
+16/11/2022,Quarta,Variaveis Complexas,M005,Séries de Taylor e Maclaurin.
+16/11/2022,Quarta,Fundamentos Da Teoria,M011,Linguagem Recursiva. Linguagem Sensível ao Contexto. Gramática Sensível ao Contexto.
+16/11/2022,Quarta,Banco de Dados,V104,Implementação de consultas básicas em SQL. Lista de exercícios.
+17/11/2022,Quinta,Sistemas Lineares,V106,Resolução de exercícios de Laplace.
+17/11/2022,Quinta,Eletronica A,L106,MOSFET tipo intensificação. Polarização do FET.
+18/11/2022,Sexta,Banco de Dados,V104,"Classe de comandos DML. Operações de inserção, atualização, remoção e seleção de dados implementadas em SQL. Comandos LIKE, UPPER e BETWEEN. Criação de auto- incrementadores e regras de disparo."
+21/11/2022,Segunda,Variaveis Complexas,M005,Séries de Laurent.
+21/11/2022,Segunda,Sistemas Lineares,V106,Circuitos transformados.
+21/11/2022,Segunda,Gestão De projeto,V106,Atividades de desenvolvimento do projeto pela equipe.
+21/11/2022,Segunda,Fundamentos Da Teoria,M011,Máquina de Turing com Fita Limitada. Hierarquia de Chomsky.
+22/11/2022,Terça,Eletronica A,I010,Atividade prática: exercícios.
+23/11/2022,Quarta,Variaveis Complexas,M005,Zeros de Funções Analíticas.*
+23/11/2022,Quarta,Fundamentos Da Teoria,M011,Revisão prova P2.
+23/11/2022,Quarta,Banco de Dados,V104,"Manipulação e tratamento de dados em consultas SQL: Funções, ordenamentos, cláusulas e aninhamentos. Implementação de conversores de formato para a apresentação de dados. Comandos EXTRACT() e CAST(). Tratamento de exceções."
+24/11/2022,Quinta,Sistemas Lineares,V106,Resolução de exercícios da transformada de Laplace. Circuito transformado.
+24/11/2022,Quinta,Eletronica A,L106,Polarização do FET.
+25/11/2022,Sexta,Banco de Dados,V104,"Agrupamento de consultas. Cláusula HAVING. Truncamento de funções em agrupamentos. Apresentação e integração de dados agrupados e não-agrupados. Junções em SQL. Variantes de junções. Implementação, testes e debug. Análise de resultados de consultas usando junções. Experimentos sobre bases reais de dados."
+28/11/2022,Segunda,Variaveis Complexas,M005,"Singularidades Isoladas, do tipo polo."
+28/11/2022,Segunda,Sistemas Lineares,V106,Propriedades da transformada de Laplace. Teorema do valor inical e final. Resolução de problema de valor inicial pelo método de Laplace.
+28/11/2022,Segunda,Gestão De projeto,V106,Entrega de atividades parciais
+28/11/2022,Segunda,Gestão De projeto,V106,Atividades de desenvolvimento do projeto pela equipe.
+28/11/2022,Segunda,Fundamentos Da Teoria,M011,Prova 2.
+29/11/2022,Terça,Eletronica A,I010,Atividade prática: exercícios.
+30/11/2022,Quarta,Variaveis Complexas,M005,Teorema dos Resíduos.
+30/11/2022,Quarta,Fundamentos Da Teoria,M011,"Classes de Solucionabilidade de Problemas: 1) Problema Solucionionável, 2) Parcialmente Solucionável, 3) Não Solucionável, 4) Completamente Insolúvel ou Não Computável. Tipos de Problema: 1) Problema de Decisão, 2) Problema de Localização e 3) Problema de Otimização."
+30/11/2022,Quarta,Banco de Dados,V104,"Operações sobre múltiplas relações. Restrições de Integridade. Integridade referencial e outros aspectos de integridade. Relacionamentos e chaves. Implementação. Experimentos. Debug. * Consultas avançadas em SQL. Operadores UNION, UNION ALL, NOT EXISTS e NOT IN. Agrupamentos e cláusulas sobre agrupamentos. Aninhamentos de consultas."
+01/12/2022,Quinta,Sistemas Lineares,V106,Aula prática TL.
+01/12/2022,Quinta,Eletronica A,L106,Polarização do FET* MOSFET como chave.
+02/12/2022,Sexta,Banco de Dados,V104,"Revisão para a Prova 3. Discussão sobre a programação avançada de banco de dados. Noções de views, triggers, stored procedures e functions."
+05/12/2022,Segunda,Variaveis Complexas,M005,Integrais Impróprias.
+05/12/2022,Segunda,Sistemas Lineares,V106,Resolução de exercícios Transformada de Laplace.
+05/12/2022,Segunda,Gestão De projeto,V106,Encerramento do projeto e análise dos resultados.
+05/12/2022,Segunda,Fundamentos Da Teoria,M011,"Complexidade de Algoritmos: medidas no pior caso, melhor caso e caso médio. Ordens assintóticas. Relação entre ordens assintóticas. As notações assintóticas: Big Oh, big Omega e big Theta."
+06/12/2022,Terça,Eletronica A,I010,Atividades práticas
+06/12/2022,Terça,Eletronica A,I010,Exercícios
+06/12/2022,Terça,Eletronica A,I010,"Atividade prática: exercícios, análise e projeto de circuitos eletrônicos."
+07/12/2022,Quarta,Variaveis Complexas,M005,Aplicações
+07/12/2022,Quarta,Fundamentos Da Teoria,M011,As Classes de Problema P e NP.
+07/12/2022,Quarta,Banco de Dados,V104,Provas
+07/12/2022,Quarta,Banco de Dados,V104,Prova 3.
+08/12/2022,Quinta,Sistemas Lineares,V106,Resolução de exercícios Transformada de Laplace.
+08/12/2022,Quinta,Eletronica A,L106,Prova 2
+08/12/2022,Quinta,Eletronica A,L106,Avaliação: prova.
+09/12/2022,Sexta,Banco de Dados,V104,Oficina de integração com Banco de Dados: conectividade de banco de dados com linguagens de programação. Drivers. Estudos de caso. Interfaceamento.
+12/12/2022,Segunda,Variaveis Complexas,M005,Avaliação 3
+12/12/2022,Segunda,Variaveis Complexas,M005,Avaliação 3.
+12/12/2022,Segunda,Sistemas Lineares,V106,Previsão da 3ª AVALIAÇÃO: Laplace.
+12/12/2022,Segunda,Gestão De projeto,V106,planejamento e execução de projeto (prática)
+12/12/2022,Segunda,Gestão De projeto,V106,Defesa dos resultados e lições aprendidas
+12/12/2022,Segunda,Gestão De projeto,V106,Aula para realização do seminário.
+12/12/2022,Segunda,Fundamentos Da Teoria,M011,As Classes de Problemas NP-Completa e NP-Difícil. Exemplos de Problemas da classe NP-Completo.
+13/12/2022,Terça,Eletronica A,I010,Resolução da prova. Atividade prática: exercícios.
+14/12/2022,Quarta,Variaveis Complexas,M005,Aniverário de Pato Branco
+14/12/2022,Quarta,Fundamentos Da Teoria,M011,Aniverário de Pato Branco
+14/12/2022,Quarta,Banco de Dados,V104,Aniverário de Pato Branco
+15/12/2022,Quinta,Sistemas Lineares,V106,Aula de dúvidas para avaliação de recuperação.
+15/12/2022,Quinta,Eletronica A,L106,Atividade de recuperação do aproveitamento acadêmico segundo §4.º do Art. 35 do Regulamento da Organização Didático-Pedagógica dos Cursos de Graduação da UTFPR.
+16/12/2022,Sexta,Banco de Dados,V104,"Oficina de integração com Banco de Dados: Definição, design e implementação de um processo fabril envolvendo a coleta e a manipulação de dados usando um sistema supervisório. Configuração de fontes e pontos de dados. Tipagem. Coleta e armazenamento dos dados."
+19/12/2022,Segunda,Variaveis Complexas,M005,Atividade de recuperação do aproveitamento acadêmico segundo § 4.º do Art. 35 do Regulamento da Organização Didático-Pedagógica dos Cursos de* Graduação da UTFPR
+19/12/2022,Segunda,Sistemas Lineares,V106,Média Final
+19/12/2022,Segunda,Sistemas Lineares,V106,AVALIAÇÃO DE RECUPERAÇÃO: Atividade de recuperação do aproveitamento acadêmico segundo § 4.º do Art. 35 do Regulamento da Organização Didático-Pedagógica dos Cursos de Graduação da UTFPR.
+19/12/2022,Segunda,Gestão De projeto,V106,Aula para realização do seminário.
+19/12/2022,Segunda,Fundamentos Da Teoria,M011,Revisão prova 3
+20/12/2022,Terça,Eletronica A,I010,Transistores de potência e aplicações* Atividade prática: exercícios.
+21/12/2022,Quarta,Variaveis Complexas,M005,Entrega de Notas Finais.
+21/12/2022,Quarta,Fundamentos Da Teoria,M011,Avaliação
+21/12/2022,Quarta,Fundamentos Da Teoria,M011,Prova 3
+21/12/2022,Quarta,Banco de Dados,V104,"Exploração de um banco de dados real. Compreensão da estrutura do banco. Consultas SQL. Introdução às views, functions e stored procedures."

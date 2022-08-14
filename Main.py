@@ -46,13 +46,14 @@ def send_mail():
         x = x+1
 
 
-  if (msg==''):
-    return
+  #if (msg==''):
+  #  return
   msgCompleta = f'subject:{subject}\n\n{msg}'
   server.sendmail(USERNAME,USERNAME, msgCompleta.encode('utf-8'))
-
-schedule.every().day.at('01:00').do(send_mail)
+send_mail()
+print("email mandado")
+#schedule.every().day.at('01:00').do(send_mail)
 #schedule.every(10).seconds.do(send_mail)
-while True:
-  schedule.run_pending()
-  time.sleep(1)
+#while True:
+# schedule.run_pending()
+# time.sleep(1)
