@@ -9,3 +9,9 @@ Substituir as informações de Calem.csv (NÃO MUDAR AS INFORMAÇOES DAS COLUNAS
 USERNAME-> com o seu Email (gmail)
 e PASS -> com uma senha de app que o google precisa faz para você
 
+è necessario utilizar o task scheduler do windows para poder automatizar o sistema.
+
+é necessario criar um arquivo com o pyinstaller juntando o csv com o .py em um unico com:
+pyinstaller --onefile --add-data "nomedoarquivo.csv/nomedoaquivo" Main.py
+
+o arquivo gerado é o arquivo que vai ser utilizado no task scheduler para o agendamento do sistema 
