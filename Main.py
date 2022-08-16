@@ -46,7 +46,7 @@ def send_mail():
         break
     else:
       while (df.iloc[x, 0] == diaHoje):
-        msg = (msg+'\n\n'+(df.iloc[x, 2]) + '  ---->  ' + (df.iloc[x, 4]))
+        msg = (msg+'\n\n'+(df.iloc[x, 2]) +'   Na Sala '+(df.iloc[x,3]) +'  ---->  ' + (df.iloc[x, 4]))
         x = x+1
 
 
