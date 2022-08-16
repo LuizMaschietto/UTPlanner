@@ -1,13 +1,17 @@
 import os
 import pandas as pd
 import smtplib
+import sys
 import time
 import schedule
 import datetime
 
 USERNAME=os.environ.get('G_USER')
 PASS=os.environ.get('G_PASS')
-df=pd.read_csv('Calem.csv')
+os.chdir(sys._MEIPASS)
+data_path='Calem\\Calem.csv'
+
+df=pd.read_csv(data_path)
 size=df.shape[0]
 
 
